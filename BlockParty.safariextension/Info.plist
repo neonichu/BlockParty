@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Krishna Kumar</string>
+	<key>Builder Version</key>
+	<string>11601.1.41</string>
+	<key>CFBundleDisplayName</key>
+	<string>BlockParty</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.blackwaterpark.apps.BlockParty</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>Content</key>
+	<dict>
+		<key>Content Blocker</key>
+		<string>blockerList.json</string>
+	</dict>
+	<key>Description</key>
+	<string>OS X Safari Content Blocker</string>
+	<key>DeveloperIdentifier</key>
+	<string>RWJ5E97L7R</string>
+	<key>ExtensionInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>Website</key>
+	<string>https://github.com/krishkumar/BlockParty</string>
+</dict>
+</plist>
